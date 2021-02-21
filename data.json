@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Demerson barros",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68012166?s=460&u=1fd5aba4398a5d16cf5863806fe67d19dfcf4efb&v=4",
+      "birth": 850348800000,
+      "services": "musculação, natação, luta",
+      "gender": "M",
+      "created_at": 1613297473683
+    },
+    {
+      "id": 2,
+      "name": "Demerson barros",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68012166?s=460&u=1fd5aba4398a5d16cf5863806fe67d19dfcf4efb&v=4",
+      "birth": 820454400000,
+      "services": "musculação, luta, natação",
+      "gender": "M",
+      "created_at": 1613398794031
+    }
+  ]
+}
